@@ -1,0 +1,14 @@
+/* header section */
+.bg-color {
+  background-color: #f0fff0;
+}
+#navImg {
+  width: 200px;
+}
+/* main section card */
+.card-text {
+  font-size: small;
+}
+body {
+  overflow-x: hidden;
+}
