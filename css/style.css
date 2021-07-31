@@ -12,3 +12,11 @@
 body {
   overflow-x: hidden;
 }
+/* Cources section */
+#iconImg {
+  width: 66px;
+  height: 78px;
+}
+#c-width {
+  width: 270px;
+}
